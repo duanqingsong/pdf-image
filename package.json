@@ -1,0 +1,21 @@
+{
+  "name": "pdf-to-image",
+  "version": "1.0.0",
+  "description": "Convert PDF to image with multiple pages stitched together",
+  "main": "pdf2img.js",
+  "scripts": {
+    "start": "node pdf2img.js"
+  },
+  "keywords": [
+    "pdf",
+    "image",
+    "convert",
+    "pdf2img"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "sharp": "^0.33.1"
+  }
+}
