@@ -12,7 +12,7 @@
     "convert",
     "pdf2img"
   ],
-  "author": "",
+  "author": "travelx.pro",
   "license": "MIT",
   "dependencies": {
     "commander": "^11.1.0",
